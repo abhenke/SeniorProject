@@ -47,7 +47,7 @@ Alphabetically sorts files
 ‘sort -o psortedbbec.file pbbec.file’
 ‘sort -o psortedblec.file pblec.file’
 
-p*.file files were then cleaned of hypothetical, multispecies,
+psorted*.file files were then cleaned of hypothetical, multispecies,
 and duplicate proteins using excel to get clean*.txt files
 
 Similarities found to make next set of child nodes 
